@@ -5,9 +5,6 @@
 - ``MariaDB``
 - ``Xampp``
   
-## Tasks
-[Task](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/02_task.md)
-
 ## Journal
 [Journal](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md)
 
