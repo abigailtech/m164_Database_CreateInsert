@@ -1,22 +1,30 @@
 # Journal
 ## Table of content
 
+* [11.03.2025]()
 * [04.03.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#040325)
 * [25.02.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#250225)
 * [18.02.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#18022025)
 
+### 11.03.25
+
+Heute war die Prüfung. Ich war zwar vorher fertig, habe aber trotzdem ein gemischtes Gefühl, weil ich bei einer Aufgabe zwei Befehle verwendet habe, obwohl nur ein Befehl nötig war. Das habe ich übersehen. Ich konnte eine Pause machen und habe die Theorie durchgelesen. Heute habe ich von Writage kennengelernt, dass man in Word schreiben kann und es dann automatisch als Markdown-Datei generiert wird. Ich werde es ausprobieren und testen. JOINS habe ich wiederholt.
+
+---
+
 ### 04.03.25
-Today, I had a lot of questions because I realized that the exam is coming up next week. Since I always strive for a grade of 6, I want to give my best, be efficient with my time, and learn as much as possible. That’s why I read about multiple relationships, recursion, and special relationships. Before this, I had never worked with these concepts, so understanding the theory was a bit complicated at first. However, after asking questions, I was able to understand it better. I also finalized the installation and now have a clearer understanding of how MySQL Workbench works. Specifically, I now understand how to switch between query language and table view, as well as how to create a database. Additionally, I wrote a [summary](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag3_Zusammenfassung.pdf) of what I learned today and completed a task related to query language and DDL. This weekend, I will prepare for the exam.
+
+Heute hatte ich viele Fragen, weil mir klar wurde, dass die Prüfung nächste Woche ansteht. Da ich immer eine Note von 6 anstrebe, möchte ich mein Bestes geben, meine Zeit effizient nutzen und so viel wie möglich lernen. Deshalb habe ich mich mit mehreren Beziehungen, Rekursion und speziellen Beziehungen beschäftigt. Zuvor hatte ich noch nie mit diesen Konzepten gearbeitet, daher war es anfangs etwas kompliziert, die Theorie zu verstehen. Nachdem ich jedoch Fragen gestellt hatte, konnte ich es besser begreifen. Ausserdem habe ich die Installation abgeschlossen und verstehe jetzt besser, wie MySQL Workbench funktioniert. Besonders jetzt weiß ich, wie man zwischen der Abfragesprache und der Tabellenansicht wechselt und wie man eine Datenbank erstellt. Zusätzlich habe ich eine [Zusammenfassung](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag3_Zusammenfassung.pdf) von dem, was ich heute gelernt habe, geschrieben und eine Aufgabe zur Abfragesprache und DDL abgeschlossen. Dieses Wochenende werde ich mich zwei Stunden auf die Prüfung vorbereiten.
 
 ---
 
 ### 25.02.25
-I was able to learn independently, so I took the time to compare the [Tour Planner](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tourenplaner09.03.25.sql.mwb) I worked on with Jevgenia to the provided solution. This allowed me to review the theory of identifying and non-identifying relationships. I also repeated key concepts about DBMS and [wrote summaries and assignments in Word](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag2_Zusammenfassung.pdf). I had planned to complete these tasks, and I managed to do so within the allotted time. Next, I hope to solve the upcoming exercises as well.
+
+Ich konnte selbstständig lernen und habe die Zeit genutzt, um den [Tour Planner](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tourenplaner09.03.25.sql.mwb), an dem ich mit Jevgenia gearbeitet habe, mit der bereitgestellten Lösung zu vergleichen. Dadurch konnte ich die Theorie zu identifizierenden und nicht-identifizierenden Beziehungen erneut durchgehen. Ausserdem habe ich zentrale Konzepte zu DBMS wiederholt und [Zusammenfassungen sowie Aufgaben in Word verfasst](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag2_Zusammenfassung.pdf). Ich hatte mir vorgenommen, diese Aufgaben abzuschliessen, und konnte sie innerhalb der vorgesehenen Zeit erledigen. Als Nächstes hoffe ich, auch die kommenden Übungen erfolgreich zu lösen.
 
 ---
 
 ### 18.02.2025
 
-We had time to review concepts like ERD, ERM, and DCL. With Jevgenia, I started working on the Tour Planner tasks, and we received feedback from the teacher. Our main challenge was that the Tour Planner had a Tour table, but we were unsure how to categorize certain data. To solve this, we created a table in Excel and did some brainstorming.  
-I also had a small issue configuring XAMPP. I tried changing my port and later realized that MariaDB was installed. After uninstalling it, the problem was resolved, and the port was accepted. I was able to fix this issue with the help of a YouTube video.  
-Next on my to-do list is to complete the Tour Planner task in MySQL. Additionally, I want to [review](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag1_Zusammenfassung.pdf) some of the key concepts again to reinforce my understanding.
+Wir hatten Zeit, Konzepte wie ERD, ERM und DCL zu wiederholen. Mit Jevgenia habe ich begonnen, an den Tour Planner-Aufgaben zu arbeiten, und wir haben Feedback erhalten. Unsere grösste Herausforderung war, dass der Tour Planner eine Tour-Tabelle hatte, wir uns aber unsicher waren, wie bestimmte Daten kategorisiert werden sollten. Zur Lösung haben wir eine Tabelle in Excel erstellt und ein Brainstorming durchgeführt.  
+Ich hatte auch ein kleines Problem bei der Konfiguration von XAMPP. Ich habe versucht, meinen Port zu ändern, und stellte später fest, dass MariaDB installiert war. Nach der Deinstallation wurde das Problem behoben, und der Port wurde akzeptiert. Dabei hat mir ein YouTube-Video geholfen. Als Nächstes steht auf meiner To-Do-Liste, die Tour Planner-Aufgabe in MySQL abzuschliessen. Ausserdem möchte ich einige der [Schlüsselkonzepte erneut durchgehen]((https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag1_Zusammenfassung.pdf)), um mein Verständnis zu festigen.
