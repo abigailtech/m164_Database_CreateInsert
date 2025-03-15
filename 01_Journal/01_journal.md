@@ -8,7 +8,7 @@
 
 ### 11.03.25
 
-Heute war die Prüfung. Ich war zwar vorher fertig, habe aber trotzdem ein gemischtes Gefühl, weil ich bei einer Aufgabe zwei Befehle verwendet habe, obwohl nur ein Befehl nötig war. Das habe ich übersehen. Ich konnte eine Pause machen und habe die Theorie durchgelesen und die [Fragen beantwortet](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag%204.md). Heute habe ich von Writage kennengelernt, dass man in Word schreiben kann und es dann automatisch als Markdown-Datei generiert wird. Ich werde es ausprobieren und testen. JOINS habe ich wiederholt.
+Heute war die Prüfung. Ich war zwar vorher fertig, habe aber trotzdem ein gemischtes Gefühl, weil ich bei einer Aufgabe zwei Befehle verwendet habe, obwohl nur ein Befehl nötig war. Das habe ich übersehen. Ich konnte eine Pause machen und habe die Theorie durchgelesen und die [Fragen beantwortet](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag%204.md). Heute habe ich von Writage kennengelernt, dass man in Word schreiben kann und es dann automatisch als Markdown-Datei generiert wird. Ich werde es ausprobieren und testen. [JOINS habe ich wiederholt](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/JOIN.md).
 
 ---
 
