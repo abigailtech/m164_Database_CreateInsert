@@ -1,14 +1,14 @@
 # Journal
-## Table of content
+## Inhalt
 
-* [11.03.2025]()
+* [11.03.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#110325)
 * [04.03.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#040325)
 * [25.02.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#250225)
 * [18.02.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#18022025)
 
 ### 11.03.25
 
-Heute war die Prüfung. Ich war zwar vorher fertig, habe aber trotzdem ein gemischtes Gefühl, weil ich bei einer Aufgabe zwei Befehle verwendet habe, obwohl nur ein Befehl nötig war. Das habe ich übersehen. Ich konnte eine Pause machen und habe die Theorie durchgelesen. Heute habe ich von Writage kennengelernt, dass man in Word schreiben kann und es dann automatisch als Markdown-Datei generiert wird. Ich werde es ausprobieren und testen. JOINS habe ich wiederholt.
+Heute war die Prüfung. Ich war zwar vorher fertig, habe aber trotzdem ein gemischtes Gefühl, weil ich bei einer Aufgabe zwei Befehle verwendet habe, obwohl nur ein Befehl nötig war. Das habe ich übersehen. Ich konnte eine Pause machen und habe die Theorie durchgelesen und die [Fragen beantwortet](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag%204.md). Heute habe ich von Writage kennengelernt, dass man in Word schreiben kann und es dann automatisch als Markdown-Datei generiert wird. Ich werde es ausprobieren und testen. JOINS habe ich wiederholt.
 
 ---
 

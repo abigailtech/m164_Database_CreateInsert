@@ -1,5 +1,13 @@
-# Table Content
+# Inhalt 
+### Zusammenfassung der Fragen 
 
+1. [NN erstellen](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag%204.md#1-wie-wird-beim-fremdschl%C3%BCssel-der-constraint-not-null-erstellt)
+2. [Index beim Fremdschlüssel](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag%204.md#2-weshalb-wird-f%C3%BCr-jeden-fremdschl%C3%BCssel-ein-index-erstellt)
+3. [UNIQUE mit Foreign Engineering erstellen](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag%204.md#3-wie-wird-der-constraint-unique-f%C3%BCr-einen-fremdschl%C3%BCssel-im-workbench-mit-forward-engineering-erstellt)
+4. [Syntax für die Anweisungen](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag%204.md#4-allgemeine-syntax-f%C3%BCr-die-constraint-anweisung-mit-fremdschl%C3%BCsselpr%C3%BCfung)
+5. [Referezielle Integrität](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag%204.md#5-was-ist-referenzielle-integrit%C3%A4t)
+6. [Umsetzung einer 1:1- und einer c:m-Beziehung](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag%204.md#6-umsetzung-einer-11--und-einer-cm-beziehung--warum)
+7. [Nachteil, wenn Beziehung nur mit Primär- und Fremdschlüssel](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag%204.md#7-nachteil-wenn-eine-beziehung-nur-mit-prim%C3%A4r--und-fremdschl%C3%BCssel-ohne-constraints-definiert-wird)
 
 ## 1. Wie wird beim Fremdschlüssel der Constraint NOT NULL erstellt?
    * Ein Fremdschlüssel verweist auf einen Primärschlüssel einer anderen Tabelle. Damit die referenzielle Integrität gewahrt bleibt, sollte der Fremdschlüssel in den meisten Fällen nicht NULL sein. Dies wird durch die NOT NULL Constraint bei der Spaltendefinition erreicht:  
