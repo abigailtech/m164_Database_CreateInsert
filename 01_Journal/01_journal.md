@@ -20,7 +20,7 @@ Heute hatte ich viele Fragen, weil mir klar wurde, dass die Prüfung nächste Wo
 
 ### 25.02.25
 
-Ich konnte selbstständig lernen und habe die Zeit genutzt, um den [Tour Planner](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tourenplaner09.03.25.sql.mwb), an dem ich mit Jevgenia gearbeitet habe, mit der bereitgestellten Lösung zu vergleichen. Dadurch konnte ich die Theorie zu identifizierenden und nicht-identifizierenden Beziehungen erneut durchgehen. Ausserdem habe ich zentrale Konzepte zu DBMS wiederholt und [Zusammenfassungen sowie Aufgaben in Word verfasst](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag2_Zusammenfassung.pdf). Ich hatte mir vorgenommen, diese Aufgaben abzuschliessen, und konnte sie innerhalb der vorgesehenen Zeit erledigen. Als Nächstes hoffe ich, auch die kommenden Übungen erfolgreich zu lösen.
+Ich konnte selbstständig lernen und habe die Zeit genutzt, um den [Tour Planner](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tourrnplaner.png), an dem ich mit Jevgenia gearbeitet habe, mit der bereitgestellten Lösung zu vergleichen. Dadurch konnte ich die Theorie zu identifizierenden und nicht-identifizierenden Beziehungen erneut durchgehen. Ausserdem habe ich zentrale Konzepte zu DBMS wiederholt und [Zusammenfassungen sowie Aufgaben in Word verfasst](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag2_Zusammenfassung.pdf). Ich hatte mir vorgenommen, diese Aufgaben abzuschliessen, und konnte sie innerhalb der vorgesehenen Zeit erledigen. Als Nächstes hoffe ich, auch die kommenden Übungen erfolgreich zu lösen.
 
 ---
 
