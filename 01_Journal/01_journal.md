@@ -1,10 +1,18 @@
 # Journal
 ## Inhalt
 
+* [18.03.2025]()
 * [11.03.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#110325)
 * [04.03.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#040325)
 * [25.02.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#250225)
 * [18.02.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#18022025)
+
+
+### 18.03.25
+
+Ich habe über [Datenintegrität](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag%205_18.03.25.md) und den Text *Warum geht Herbert oft laufen?* gelesen und eine Zusammenfassung dazu geschrieben. Ebenso habe ich mich mit den [Aggregatsfunktionen](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Aggregatsfunktionen.md#4-having) beschäftigt. Ich konnte konzentriert arbeiten und einige Themen nochmals wiederholen. Diesmal gab es kein völlig neues Thema für mich, aber es war eine gute Auffrischung vom ÜK. Ich konnte die Aufgaben lösen und hatte keine allzu großen Schwierigkeiten.
+
+---
 
 ### 11.03.25
 
