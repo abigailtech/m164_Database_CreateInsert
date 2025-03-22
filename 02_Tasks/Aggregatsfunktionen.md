@@ -1,8 +1,8 @@
 # Inhalt
-1. [Aggregatsfunktionen]()
-2. [Sag Fritz, warum geht Herbert oft Laufen?]()
-3. [Group by]()
-4. [Having]()
+1. [Aggregatsfunktionen](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Aggregatsfunktionen.md#1-aggregatsfunktionen)
+2. [Sag Fritz, warum geht Herbert oft Laufen?](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Aggregatsfunktionen.md#2-merksatz-f%C3%BCr-select)
+3. [Group by](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Aggregatsfunktionen.md#3-group-by)
+4. [Having](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Aggregatsfunktionen.md#4-having)
 
 
 ## 1. Aggregatsfunktionen
