@@ -1,11 +1,11 @@
 # Inhalt
-1. [Einsatz von Subqueries]()
-2. [Unterschied zwischen skalaren und nicht-skalaren Subqueries]()
-3. [Subselects]()
-4. [IGNORE und Load Data Files]()
-5. [CSV]()
-6. [Einstellungen CSV]()
-7. [Import von Spalte]()
+1. [Einsatz von Subqueries](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag6_Zusammenfassung_25.03.25.md#1-einsatz-von-subqueries)
+2. [Unterschied zwischen skalaren und nicht-skalaren Subqueries](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag6_Zusammenfassung_25.03.25.md#2-unterschied-zwischen-skalaren-und-nicht-skalaren-subqueries)
+3. [Subselects](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag6_Zusammenfassung_25.03.25.md#3-gefahren-bei-der-verwendung-von-subselects)
+4. [IGNORE und Load Data Files](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag6_Zusammenfassung_25.03.25.md#4-bedeutung-von-ignore-1-lines-in-load-data-infile)
+5. [CSV](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag6_Zusammenfassung_25.03.25.md#5-problem-bei-windows-csv-mit-lines-terminated-by-n)
+6. [Einstellungen CSV](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag6_Zusammenfassung_25.03.25.md#6-erforderliche-einstellungen-f%C3%BCr-csv-import-durch-den-klienten)
+7. [Import von Spalte](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag6_Zusammenfassung_25.03.25.md#7-import-von-spalten-in-einer-anderen-reihenfolge)
 
 
 ## 1. **Einsatz von Subqueries**   
