@@ -1,12 +1,18 @@
 # Journal
 ## Inhalt
 
-* [18.03.2025]()
+* [25.03.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag6_Zusammenfassung_25.03.25.md)
+* [18.03.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#180325)
 * [11.03.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#110325)
 * [04.03.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#040325)
 * [25.02.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#250225)
 * [18.02.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#18022025)
 
+
+### 25.03.25
+Heute habe ich mich mit der [Datenbanknormalisierung](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag6_Zusammenfassung_25.03.25.md) beschäftigt und die verschiedenen Normalformen wiederholt. Ich konnte die Konzepte gut nachvollziehen und habe einige Übungen dazu gelöst. Ausserdem habe ich mich nochmals mit den Aggregatsfunktionen auseinandergesetzt und einige SQL-Abfragen dazu geschrieben. Es war hilfreich, die Unterschiede zwischen COUNT(), SUM(), AVG(), MIN() und MAX() nochmals zu vertiefen. Nebenbei habe ich einige JOINs geübt, um sicherzugehen, dass ich sie in der Praxis richtig anwenden kann. Ich konnte konzentriert arbeiten und hatte keine grösseren Schwierigkeiten.
+
+---
 
 ### 18.03.25
 
