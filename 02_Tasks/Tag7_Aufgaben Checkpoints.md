@@ -1,11 +1,11 @@
 # Inhalt
 
-1. [Ablauf]()
-2. [logischen und physischem Backup]()
-3. [Restore Prozess]()
-4. [Backup einer Datenbasis]()
-5. [DB in die 3. NF]()
-6. [Befehl]()
+1. [Ablauf](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag7_Aufgaben%20Checkpoints.md#1-daten-in-eine-normalisierte-db-bringen)
+2. [logischen und physischem Backup](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag7_Aufgaben%20Checkpoints.md#2-unterschied-logisches-vs-physisches-backup)
+3. [Restore Prozess](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag7_Aufgaben%20Checkpoints.md#3-restore-prozess-full--inkrementell--differenziell)
+4. [Backup einer Datenbasis](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag7_Aufgaben%20Checkpoints.md#4-drei-m%C3%B6glichkeiten-f%C3%BCr-backups--befehle)
+5. [DB in die 3. NF](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag7_Aufgaben%20Checkpoints.md#5-schritte-zur-3-normalform-3nf)
+6. [Befehl](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag7_Aufgaben%20Checkpoints.md#6-was-macht-select-into-outfile)
 
 
 ### **1. Daten in eine normalisierte DB bringen**
