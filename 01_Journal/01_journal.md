@@ -8,6 +8,12 @@
 * [25.02.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#250225)
 * [18.02.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#18022025)
 
+### 01.04.25
+Ich habe heute ein Backup erstellt und [verschiedene Aufgaben gelöst](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag%207_Aufgaben_01.04.25.md). Dabei habe ich auch den Text zum Thema [Datenbank-Backup zusammengefasst](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag%207_01.04.25.md). Ich habe gelernt, dass man mit Tools wie mysqldump oder phpMyAdmin Datenbanken sichern und wiederherstellen kann.
+Es war eine Wiederholung vom letzten Modul, da wir das Thema Backup bereits im Winter angeschaut hatten.
+Ich konnte in der Lektion auch Daten in eine normalisierte Datenbank importieren. Anschliessend habe ich die [Checkpoint-Fragen beantwortet](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag7_Aufgaben%20Checkpoints.md). Leider konnte ich nicht alle praktischen Aufgaben lösen, aber nächste Woche findet eine Praxisarbeit statt, diese werde ich mir dann genauer anschauen, um mich gezielt auf die bevorstehende Prüfung vorzubereiten.
+
+---
 
 ### 25.03.25
 Heute habe ich mich mit der [Datenbanknormalisierung](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag6_Zusammenfassung_25.03.25.md) beschäftigt und die verschiedenen Normalformen wiederholt. Ich konnte die Konzepte gut nachvollziehen und habe einige Übungen dazu gelöst. Ausserdem habe ich mich nochmals mit den Aggregatsfunktionen auseinandergesetzt und einige SQL-Abfragen dazu geschrieben. Es war hilfreich, die Unterschiede zwischen COUNT(), SUM(), AVG(), MIN() und MAX() nochmals zu vertiefen. Nebenbei habe ich einige JOINs geübt, um sicherzugehen, dass ich sie in der Praxis richtig anwenden kann. Ich konnte konzentriert arbeiten und hatte keine grösseren Schwierigkeiten.
