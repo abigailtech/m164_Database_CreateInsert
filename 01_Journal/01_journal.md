@@ -1,12 +1,20 @@
 # Journal
 ## Inhalt
 
+* [08.04.2025]()
+* [01.04.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#010425)
 * [25.03.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag6_Zusammenfassung_25.03.25.md)
 * [18.03.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#180325)
 * [11.03.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#110325)
 * [04.03.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#040325)
 * [25.02.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#250225)
 * [18.02.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#18022025)
+
+### 08.04.2025 
+
+Es wurde uns mitgeteilt, dass wir nächste Woche die Prüfung LB2 haben. Daraufhin habe ich mich auf die Theorie fokussiert, da ich den praktischen Teil zuletzt schon behandelt habe. Ich habe eine Zusammenfassung zu den Themen Datensicherheit in Datenbanken bis hin zum Bulkimport erstellt. Zusätzlich habe ich mir Notizen aus alten Recaps gemacht, um das Wissen noch einmal aufzufrischen. Als Aufgabe habe ich mir alles notiert, was ich über Mehrfachbindungen, das Stücklistenproblem sowie über Identifying und Non-Identifying Relationships weiss. Ebenso habe ich aus dem Recap der ersten Prüfung die Vor- und Nachteile von DBMS zusammengefasst. Leider werde ich dieses Wochenende keine Zeit haben, das Thema noch einmal durchzugehen. Ich hoffe daher, dass ich das praktische Wissen aus dem üK bei der Prüfung noch anwenden kann. Diese Lektion habe ich auch noch einmal angeschaut, um zu üben, wie man CSV-Dateien importiert.
+
+---
 
 ### 01.04.25
 Ich habe heute ein Backup erstellt und [verschiedene Aufgaben gelöst](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag%207_Aufgaben_01.04.25.md). Dabei habe ich auch den Text zum Thema [Datenbank-Backup zusammengefasst](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag%207_01.04.25.md). Ich habe gelernt, dass man mit Tools wie mysqldump oder phpMyAdmin Datenbanken sichern und wiederherstellen kann.
