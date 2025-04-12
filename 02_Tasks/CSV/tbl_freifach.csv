@@ -1,0 +1,11 @@
+﻿ID_Freifach;Beschreibung;Tag;Zimmer;FK_FF_LehrerIn
+1;Tanz;Mo;112;1
+2;Chor;Mi;Aula;2
+3;Elektronik;Di;110;2
+4;Tanz;Mo;112;2
+5;Chor;Mi;Aula;2
+6;Tanz;Mo;112;3
+7;Elektronik;Di;110;2
+8;Chor;Mi;Aula;3
+9;Elektronik;Di;110;4
+10;Elektronik;Di;110;4

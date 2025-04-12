@@ -1,0 +1,10 @@
+﻿tbl_SchülerIn;;;;
+SchülerNr;Vorname;Nachname;Geb.Datum;FK_Klasse
+1;Ulla;Jürgens ;12.05.2003;11a
+2;Harry;Schmidt ;21.06.2002;12a
+3;Sepp;Jäger ;14.11.2003;11a
+4;Evan;Olsen ;10.02.2004;11b
+5;Tom;Jürgens ;11.05.2002;12a
+6;Justus;Hasler ;02.10.2003;11b
+8;Igor;Kustov ;11.12.2004;12c
+11;Cedric;Kast ;30.01.2004;12c
