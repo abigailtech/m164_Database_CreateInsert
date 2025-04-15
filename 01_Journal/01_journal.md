@@ -1,6 +1,7 @@
 # Journal
 ## Inhalt
 
+* [15.04.2025]()
 * [08.04.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#08042025)
 * [01.04.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#010425)
 * [25.03.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag6_Zusammenfassung_25.03.25.md)
@@ -10,9 +11,16 @@
 * [25.02.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#250225)
 * [18.02.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#18022025)
 
+### 15.04.2025
+
+Ich habe eine Zusammenfassung zu den Themen [Common Table Expressions und Stored Procedures](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag9_15.04.25.md) geschrieben. Diese Zusammenfassung habe ich nochmals durchgesehen. Heute habe ich ausserdem gelernt, wie man mit dem [Generator](https://migano.de/testdaten.php) Testdaten erstellen und als CSV-Datei exportieren kann. Ich habe auch gelernt, wie man diese Daten in eine Datenbank einfügt. Wenn beispielsweise eine Spalte mit einer ID bereits vorhanden ist, muss die Tabelle angepasst werden, dabei sollte für die ID-Spalte AUTO_INCREMENT verwendet werden. Die erste Spalte in der CSV-Datei kann in diesem Fall ignoriert werden. Was ich noch verbessern möchte, ist meine Fähigkeit, SQL-Befehle schneller und präziser zu schreiben. Was ich aus diesen Lektionen mitnehme, ist eine vertiefter Umgang mit Datenbanken, diesmal nicht mit PostgreSQL wie im üK, sondern mit MySQL.
+
+---
+
 ### 08.04.2025 
 
-Es wurde uns mitgeteilt, dass wir nächste Woche die Prüfung LB2 haben. Daraufhin habe ich mich auf die Theorie fokussiert, da ich den praktischen Teil, also die [Praxisarbeit, 1. Aufgabe ](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag8_12-04-2025.md) zuletzt schon behandelt habe. Ich habe eine [Zusammenfassung](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag8_12.04.25.md) zu den Themen Datensicherheit in Datenbanken bis hin zum Bulkimport erstellt. Zusätzlich habe ich mir Notizen aus alten Recaps gemacht, um das Wissen noch einmal aufzufrischen. Als Aufgabe habe ich mir alles notiert, was ich über Mehrfachbindungen, das Stücklistenproblem sowie über Identifying und Non-Identifying Relationships weiss. Ebenso habe ich aus dem Recap der ersten Prüfung die Vor- und Nachteile von DBMS zusammengefasst. Leider werde ich dieses Wochenende keine Zeit haben, das Thema noch einmal durchzugehen. Ich hoffe daher, dass ich das praktische Wissen aus dem üK bei der Prüfung noch anwenden kann. Diese Lektion habe ich auch noch einmal angeschaut, um zu üben, wie man CSV-Dateien importiert. Ich habe dann die [Praxisabreit, 2. Aufgabe ](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag8_SecondPart.md) gemacht mit der offenen Daten der Stadt Zürich. Ebenso wurde die [Praxisaufgabe, 3. Aufgabe](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag8_DritterPart.md) gemacht. 
+Es wurde uns mitgeteilt, dass wir nächste Woche die Prüfung LB2 haben. Daraufhin habe ich mich auf die Theorie fokussiert, da ich den praktischen Teil, also die [Praxisarbeit, 1. Aufgabe ](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag8_12-04-2025.md) zuletzt schon behandelt habe. Ich habe eine [Zusammenfassung](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag8_12.04.25.md) zu den Themen Datensicherheit in Datenbanken bis hin zum Bulkimport erstellt. Zusätzlich habe ich mir Notizen aus alten Recaps gemacht, um das Wissen noch einmal aufzufrischen. Als Aufgabe habe ich mir alles notiert, was ich über Mehrfachbindungen, das Stücklistenproblem sowie über Identifying und Non-Identifying Relationships weiss. Ebenso habe ich aus dem Recap der ersten Prüfung die Vor- und Nachteile von DBMS zusammengefasst. Leider werde ich dieses Wochenende keine Zeit haben, das Thema noch einmal durchzugehen. Ich hoffe daher, dass ich das praktische Wissen aus dem üK bei der Prüfung noch anwenden kann. 
+Diese Lektion habe ich auch noch einmal angeschaut, um zu üben, wie man CSV-Dateien importiert. Ich habe dann die [Praxisabreit, 2. Aufgabe ](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag8_SecondPart.md) gemacht mit der offenen Daten der Stadt Zürich. Ebenso wurde die [Praxisaufgabe, 3. Aufgabe](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag8_DritterPart.md) gemacht. 
 
 ---
 
