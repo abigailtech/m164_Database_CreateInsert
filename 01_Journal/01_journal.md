@@ -16,7 +16,9 @@
 
 ### 06.05.2025
 
-Ich habe mir die Prüfung angeschaut und dann noch alle alten Themen die wir behandelt haben angeschaut. Ich habe mich an die Prüfung geleitet und die Aufgaben wo ich einen Punkt Abzug hatte habe ich es nochmal gelöst. So konnte ich die Fehler nochmals anschauen und verbessern. 
+Ich habe mir die Prüfung angeschaut und dann noch alle alten Themen die wir behandelt haben angeschaut. Ich habe mich an die Prüfung geleitet und die Aufgaben wo ich einen Punkt Abzug hatte habe ich es nochmal gelöst. So konnte ich die Fehler nochmals anschauen und verbessern. Ich habe gelernt das Reflektion eines der wichtigsten Komponenten ist, um sich fortlaufend zu verbessern.
+
+---
 
 ### 15.04.2025
 
