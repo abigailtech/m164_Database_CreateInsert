@@ -1,9 +1,9 @@
 # Journal
 ## Inhalt
 
-* [06.05.2025]()
+* [06.05.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#06052025)
   
-* [15.04.2025]()
+* [15.04.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#15042025)
   
 * [08.04.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#08042025)
 * [01.04.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#010425)
