@@ -1,7 +1,10 @@
 # Journal
 ## Inhalt
 
+* [06.05.2025]()
+  
 * [15.04.2025]()
+  
 * [08.04.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#08042025)
 * [01.04.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#010425)
 * [25.03.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/02_Tasks/Tag6_Zusammenfassung_25.03.25.md)
@@ -10,6 +13,10 @@
 * [04.03.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#040325)
 * [25.02.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#250225)
 * [18.02.2025](https://github.com/abigailtech/m164_Database_CreateInsert/blob/main/01_Journal/01_journal.md#18022025)
+
+### 06.05.2025
+
+Ich habe mir die Prüfung angeschaut und dann noch alle alten Themen die wir behandelt haben angeschaut. Ich habe mich an die Prüfung geleitet und die Aufgaben wo ich einen Punkt Abzug hatte habe ich es nochmal gelöst. So konnte ich die Fehler nochmals anschauen und verbessern. 
 
 ### 15.04.2025
 
